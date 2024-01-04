@@ -7,8 +7,9 @@ from collections import defaultdict
 s = "ebcda"
 s = sorted(s) # sorts a string or iterable object > abcde
 
-# defaultdict(iterable)
+# defaultdict(type)
 # creates keys if it does not exist
+map = defaultdict(int)
 map = defaultdict(list)
 
 # .values()

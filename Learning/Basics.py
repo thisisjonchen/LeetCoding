@@ -81,6 +81,7 @@ arr.append(4) # [1,2,3,4]
 arr.append(5) # [1,2,3,4,5]
 
 arr.pop() # removes last index value => [1,2,3,4,5] > [1,2,3,4]
+arr.pop(0) # remove first index value => [1,2,3,4,5] > [2,3,4,5]
 
 # Can also insert (but o(n))
 arr.insert(1,7)
@@ -124,7 +125,7 @@ nums1 = [1,3,5]
 nums2 = [2,4,6]
 
 for n1, n2 in zip(nums1,nums2):
-    print(n1,n2)
+    print(n1,n2) # 1 2 \n 3 4 \n 5 6
 
 # Reverse
 nums = [1,2,3]
