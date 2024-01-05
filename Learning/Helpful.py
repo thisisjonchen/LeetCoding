@@ -17,3 +17,19 @@ map = defaultdict(list)
 hashmap = {1: "a", 2: "b"}
 hashmap.values() # returns [["a"], ["b"]]
 
+# max(comp1, comp2), min(comp1, comp2)
+# can be used to compare two values and determine the larger or smaller of the two. Returns whatever is smaller or larger.
+max(1,2)
+min(1,2)
+
+# .lower(), .upper()
+# converts all chars to lower or upper in a string
+s = "booGie Woogie"
+s.lower() # boogie woogie
+s.upper() # BOOGIE WOOGIE 
+
+# re.sub('[^0-9a-zA-Z]+', "", string)
+# useful for replacing all alphanumeric numbers using regex (Two Pointers)
+import re
+s = "bruh ___EEEE**"
+s = re.sub('[^0-9a-zA-Z]+', "", s)
