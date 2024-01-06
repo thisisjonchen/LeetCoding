@@ -12,6 +12,8 @@ class Solution:
         return False
         
 '''
+TLDR: Use set. Iterate through array, checking if "n" is in set. If found, return true. Else, continue adding. If end, return false.
+
 Explaination:
 Using sets (which prevent duplicates), we can check if the respective value in "nums"
 exists in the set (or in this case "mySet").

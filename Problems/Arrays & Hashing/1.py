@@ -20,6 +20,8 @@ class Solution:
             myMap[n] = i
 
 '''
+TLDR: Use hashmap with value as index, index as value. Check for diff value index in hashmap.
+
 Explaination:
 This problem has two solutions with time complexities that vary vastly from the other (n^2 vs. n).
 I initially tried brute forcing using nested loops, but I knew that it was going to be inefficient.

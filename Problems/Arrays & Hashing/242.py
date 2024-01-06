@@ -22,6 +22,8 @@ class Solution:
         return s == t
     
 '''
+TLDR: Check if lengths are equal. If so, sort each string and compare.
+
 Explaination: 
 Given two strings (which may or may not be equal in length), we have to check if strings are equal in length.
 If not, return False. Then, we have to sort the two strings (an easy way to verify if they are equal). Finally,

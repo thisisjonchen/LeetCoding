@@ -18,6 +18,8 @@ class Solution:
         return longest
 
 '''
+TLDR: Use set. Check for left neighbor. If neighbor exists, continue. If left neighbor does not exist, use a length counter to check for all right neighbors. Store max count.
+
 Explaination:
 I couldn't figure this out. I initially tried hashmaps and sorting, but they did not work or had time complexities 
 that exceeded the contraint O(n).

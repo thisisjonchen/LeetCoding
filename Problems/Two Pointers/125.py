@@ -11,6 +11,8 @@ class Solution:
         return True
     
 '''
+TLDR: Remove non-alphanumeric values using regex. Compare left and right indexes moving in. If not equal, return false.
+
 Explaination:
 This problem was super easy as it basically gives us the path of converting everything to lowercase and removing
 all non-alphanumeric (like * or _) from the "s" string. Using regex, this is super easy, albeit the regex for it is

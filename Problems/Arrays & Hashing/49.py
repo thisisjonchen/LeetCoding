@@ -24,6 +24,8 @@ class Solution:
         return hashmap.values()
     
 '''
+TLDR: Use hashmap (defaultdict) with the sorted word as key. The value will be a list that will be appended to.
+
 Explaination:
 My initial solution was to simply create a map, then use a key (which is the "sorted" version of a word)
 to group similar words (if sorted, they should be the same). This required an if/else clause that involved

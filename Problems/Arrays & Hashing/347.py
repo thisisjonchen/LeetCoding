@@ -29,6 +29,8 @@ class Solution:
                 return result
         
 '''
+TLDR: Use hashmap with key being nums and value being the "counter". Use a result array with loop bounded by k to output respective values.
+
 Explaination:
 My initial solution uses a dict/hashmap to create key-pairs of the "number" : counter of "numbers". We iterate through
 the nums array to build the dict (time O(n)) and sort it (time O(nlogn)). Then we return the list of keys from index 0 to k.
