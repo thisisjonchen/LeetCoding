@@ -1,8 +1,8 @@
 # LeetCoding 🧑🏻‍💻
 Join me on my journey through the barren wastelands of LeetCode :>
 
-# Legend
-**Key**:\
+# Journey
+**Legend**:\
 Good! ✅ (Solved and Good...enough!)\
 Ehh 🟡 (Solved but is not optimized)\
 Bruh 💀 (Could not solve + Gave up)
