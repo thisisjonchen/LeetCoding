@@ -12,4 +12,5 @@ Bruh 💀 (Could not solve + Gave up)
 **1/3/24** Arrays & Hashing: 238💀, 347🟡\
 **1/4/24** Arrays & Hashing: 128💀 | Two Pointers: 125✅\
 **1/5/24** Review/Rest\
-**1/6/24** Two Pointers: 167🟡
+**1/6/24** Two Pointers: 167🟡\
+**1/7/24** Semester Start/Rest
