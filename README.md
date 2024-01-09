@@ -11,6 +11,6 @@ Bruh 💀 (Could not solve + Gave up)
 **1/2/24** Started LC/Blind75 > Arrays & Hashing: 1✅, 49✅, 217✅, 249✅\
 **1/3/24** Arrays & Hashing: 238💀, 347🟡\
 **1/4/24** Arrays & Hashing: 128💀 | Two Pointers: 125✅\
-**1/5/24** Review
+**1/5/24** Review\
 **1/6/24** Two Pointers: 167🟡
 
