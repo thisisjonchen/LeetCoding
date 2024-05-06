@@ -13,4 +13,4 @@ Bruh 💀 (Could not solve + Gave up)
 **1/4/24** Arrays & Hashing: 128💀 | Two Pointers: 125✅\
 **1/5/24** Review\
 **1/6/24** Two Pointers: 167🟡\
-**1/7/24 -> 5/4/24** CMPSC 132: Learning Basic DSA (Strings, Arrays, Trees, Graphs, etc.)
+**1/7/24 -> 5/5/24** CMPSC 132: Learning Basic DSA (Strings, Arrays, Trees, Graphs, etc.)
