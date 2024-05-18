@@ -17,6 +17,21 @@ class Solution:
                 longest = max(length, longest)
         return longest
 
+# Redid 5/17/24
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        # CANNOT USE SORTING O(NLOGN), must be done on first pass.
+        numSeq = set(nums) #O(n) space
+        longest = 0
+        for num in numSeq: # O(n)
+            if (num-1) not in numSeq: #O(1) lookup
+                length = 0
+                while (num+length) in numSeq: # Always <= n (if in chain of nums, makes outer loop O(1))
+                    length += 1
+                longest = max(longest, length)
+        return longest
+        # Ultimately O(n)
+
 '''
 TLDR: Use set. Check for left neighbor. If neighbor exists, continue. If left neighbor does not exist, use a length counter to check for all right neighbors. Store max count.
 
