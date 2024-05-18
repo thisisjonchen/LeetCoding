@@ -27,6 +27,19 @@ class Solution:
                 result.append(n)
             if len(result) == k:
                 return result
+
+# Redone 5/17/24
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        freq = {}
+        for num in nums: # O(n)
+            freq[num] = freq.get(num,0) + 1
+        return list(sorted(freq, key=freq.get, reverse = True)) # O(nlogn), use key! for sorted.
+        # Sorting based on values (here, freq) but in the list, it IS NOT TUPLE since reg "dict" without any
+        # declarations like .items() will be **.keys()**, which is what we want (the nums, not the freq)
+        # then reverse because sorted will default in ascending order, we want descending (most freq first.)
+        # Ultimately O(nlogn + n) = O(nlogn)
+        
         
 '''
 TLDR: Use hashmap with key being nums and value being the "counter". Use a result array with loop bounded by k to output respective values.
