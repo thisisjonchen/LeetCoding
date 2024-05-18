@@ -24,6 +24,23 @@ class Solution:
             result[i] *= postfix
             postfix *= nums[i]
         return result
+
+# Redid Problem 5/17/24
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        # [1,2,3,4] -> Product of Previous -> [1,1,2,6]
+        # [1,2,3,4] -> Product of Next -> [24,12,4,1]
+        output = [1 for num in nums] # O(n)
+        prev = 1
+        for i in range(len(nums)): # O(n)
+            output[i] *= prev
+            prev *= nums[i]
+        next = 1
+        for i in range(len(nums)-1, -1, -1): # O(n)
+            output[i] *= next
+            next *= nums[i] 
+        # Ultimately O(n+n+n) = O(3n) = O(n)
+        return output 
     
 '''
 Explaination:
