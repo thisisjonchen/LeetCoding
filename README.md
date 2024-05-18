@@ -12,7 +12,6 @@ Redone 🔁
 **1/2/24** Started LC/Blind75 > Arrays & Hashing: 1✅, 49✅, 217✅, 249✅\
 **1/3/24** Arrays & Hashing: 238💀, 347🟡\
 **1/4/24** Arrays & Hashing: 128💀 | Two Pointers: 125✅\
-**1/5/24** Review\
 **1/6/24** Two Pointers: 167🟡\
 **1/7/24 -> 5/7/24** CMPSC 132: Learning Basic DSA (Strings, Arrays, Trees, Graphs, etc.)✅\
 **5/8/24** Two Pointers: 11✅\
