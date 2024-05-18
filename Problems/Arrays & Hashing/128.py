@@ -4,7 +4,7 @@ from types import List
 # NeetCode Solution (Couldn't figure it out)
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        # Cannot use sorted... O(nlogn)
+        # Cannot use sorted... O(n logn)
         numSet = set(nums)
         longest = 0
 
