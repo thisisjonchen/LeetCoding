@@ -22,3 +22,26 @@ class Solution:
                 count += 1
             r += 1
         return max(maxCount, count)
+        
+# Re-Done 5/25/24 - GREAT MEMORY Usage (Beats 99.66%), but Time Complexity could be better.
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        chars = set()
+        longest = 0
+        curr = 0
+        p = 0
+        while p < len(s):
+            if s[p] not in chars:
+                curr += 1
+                chars.add(s[p])
+            else:
+                curr = 0
+                while s[p] in chars:
+                    chars.remove(s[p])
+                    p -= 1
+            longest = max(curr, longest)
+            p += 1
+        return longest
+
+                
+        
