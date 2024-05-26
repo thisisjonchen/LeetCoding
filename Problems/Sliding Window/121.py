@@ -33,6 +33,19 @@ class Solution:
                 minDay = maxDay
             maxDay += 1
         return profit
+        
+# Re-Done 5/25/24
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        l = 0
+        maxSum = 0
+        for r in range(1, len(prices)):
+            currSum = prices[r] - prices[l]
+            if currSum > maxSum:
+                maxSum = currSum
+            elif prices[r] < prices[l]:
+                l = r
+        return maxSum
       
 '''
 TLDR: Hold two variables, minDay and maxDay, compare net to profit if prices are comparable else adjust minDay to be maxDay (switching the window).
