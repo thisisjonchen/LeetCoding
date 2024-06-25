@@ -23,4 +23,5 @@ Redone 🔁
 **5/28/24** Math: 1492✅\
 **6/9/24** Arrays & Hashing: 169✅\
 **6/15/24** Arrays & Hashing: 387✅\
-**6/16/24** Binary Search: 704🟡
+**6/16/24** Binary Search: 704🟡\
+**6/24/24** Arrays & Hashing: 36✅
