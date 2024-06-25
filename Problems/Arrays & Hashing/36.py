@@ -84,5 +84,5 @@ class Solution:
 
         return True
 '''
-TLDR: Brute Force with 27 Hashmaps (9 rows, 9 columns, 9 sub-boxes). Will always result in O(1). Use row // 3 and column // 3 for sub-box indices.
+TLDR: Brute Force with 27 Hashmaps (9 rows, 9 columns, 9 sub-boxes). Will always result in O(1). Use tuple row // 3 and column // 3 for sub-box indices key.
 '''
