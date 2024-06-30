@@ -43,5 +43,23 @@ class Solution:
             p += 1
         return longest
 
+# Re-Done 6/30/24 - O(n) Time While Beating 97.80% Memory!
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        chars = set()
+        l = 0
+        res = 0
+
+        for r in range(len(s)):
+            while s[r] in chars:
+                chars.remove(s[l])
+                l += 1
+            chars.add(s[r])
+            res = max(res, r - l + 1) # corrected for indexing
+        return res
+'''
+TLDR: Sliding Window, for with variable r (unchangable outside of for loop), but adjust the left pointer accordingly - remove until we hit the duplicate of s[r].
+'''
+
                 
         
