@@ -2,9 +2,9 @@
 Join me on my journey through the barren wastelands of LeetCode :>
 
 # Legend
-Good! ✅ (Solved and Good...enough!)\
-Ehh 🟡 (Solved but is not optimized)\
-Bruh 💀 (Could not solve + Gave up)\
+Good! ✅ (Solved!)\
+Ehh 🟡 (Needed a Hint)\
+Bruh 💀 (Gave Up)\
 Redone 🔁
 
 # Journey
