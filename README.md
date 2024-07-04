@@ -29,4 +29,5 @@ Redone 🔁
 **6/26/24** Graphs: 1791✅\
 **6/30/24** Sliding Window: 3✅🔁, 424✅🔁 | Arrays: 1550✅\
 **7/1/24** Stack: 20✅ | Linked List: 21✅\
-**7/2/24** Arrays: 350✅
+**7/2/24** Arrays: 350✅\
+**7/3/24** Arrays (Greedy): 1509💀\
