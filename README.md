@@ -32,4 +32,5 @@ Redone 🔁
 **7/2/24** Arrays: 350✅\
 **7/3/24** Arrays (Greedy): 1509💀\
 **7/4/24** Linked List: 2181✅\
-**7/5/24** Linked List: 2058✅
+**7/5/24** Linked List: 2058✅\
+**7/6/24** Math: 2582✅
