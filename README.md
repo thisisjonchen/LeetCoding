@@ -1,6 +1,6 @@
 # LeetCoding 🧑🏻‍💻
-Join me on my journey through the barren wastelands of LeetCode :>
-> [https://leetcode.com/u/ZeBosse/](url)
+Join me on my journey through the barren wastelands of LeetCode :>\
+https://leetcode.com/u/ZeBosse/
 
 # Legend
 Good! ✅ (Solved!)\
