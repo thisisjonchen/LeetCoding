@@ -37,6 +37,7 @@ Redone 🔁
 **7/6/24** Math: 2582✅\
 **7/7/24** Math/Simulation: 1518✅\
 **7/8/24** Math/Simulation: 1823🟡\
-**7/9/24** Array/Simulation: 1701✅\
-**7/10/24** Array: 1598✅\
-**7/11/24** String: 1190✅ | Sliding Window: 2379✅
+**7/9/24** Arrays/Simulation: 1701✅\
+**7/10/24** Arrays: 1598✅\
+**7/11/24** String: 1190✅ | Sliding Window: 2379✅\
+**7/12/24** Arrays & Hashing: 3162✅ | String: 3163✅
