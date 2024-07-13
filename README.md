@@ -40,4 +40,5 @@ Redone 🔁
 **7/9/24** Arrays/Simulation: 1701✅\
 **7/10/24** Arrays: 1598✅\
 **7/11/24** String: 1190✅ | Sliding Window: 2379✅\
-**7/12/24** Arrays & Hashing: 3162✅ | String: 3163✅ | Stack (Greedy): 1717💀
+**7/12/24** Arrays & Hashing: 3162✅ | String: 3163✅ | Stack (Greedy): 1717💀\
+**7/13/24** Stack: 2751🟡\
