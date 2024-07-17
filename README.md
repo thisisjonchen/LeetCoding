@@ -6,7 +6,7 @@ https://leetcode.com/u/ZeBosse/
 Good! ✅ (Solved!)\
 Ehh 🟡 (Needed a Hint)\
 Bruh 💀 (Gave Up)\
-Redone 🔁
+Retry 🔁
 
 # Journey
 **1/1/24** Basics: Learned Python Syntax ✅\
