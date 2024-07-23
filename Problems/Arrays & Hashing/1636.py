@@ -1,4 +1,4 @@
-# LC 1636. Sort Array by Increasing Frequency
+# LC 1636. Sort Array by Increasing Frequency | Daily LC - 7/23/24
 class Solution:
     def frequencySort(self, nums: List[int]) -> List[int]:
         numToFreq = defaultdict(int) # O(n)
