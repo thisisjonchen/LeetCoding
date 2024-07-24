@@ -51,4 +51,5 @@ Retry 🔁
 **7/20/24** Arrays (Matrix): 1605🟡\
 **7/21/24** Arrays (Matrix): 2392💀\
 **7/22/24** Arrays & Hashing: 2418✅\
-**7/23/24** Arrays & Hashing: 1636✅
+**7/23/24** Arrays & Hashing: 1636✅\
+**7/24/24** Arrays & Hashing: 2191✅
