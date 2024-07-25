@@ -52,4 +52,5 @@ Retry 🔁
 **7/21/24** Arrays (Matrix): 2392💀\
 **7/22/24** Arrays & Hashing: 2418✅\
 **7/23/24** Arrays & Hashing: 1636✅\
-**7/24/24** Arrays & Hashing: 2191✅
+**7/24/24** Arrays & Hashing: 2191✅\
+**7/25/24** Arrays (Sort): 912🟡
