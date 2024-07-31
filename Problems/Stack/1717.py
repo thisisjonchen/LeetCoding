@@ -66,6 +66,34 @@ class Solution:
         
         return score1 + score2
 
+# Retry - 7/30/24
+class Solution:
+    def maximumGain(self, s: str, x: int, y: int) -> int:
+        stack = []
+
+        greaterPoint = max(x,y)
+        lesserPoint = min(x,y)
+        if x >= y: greater, lesser = "ab", "ba"
+        else: greater, lesser = "ba", "ab"
+
+        score = 0
+        for char in s:
+            if stack and (stack[-1] + char) == greater:
+                stack.pop()
+                score += greaterPoint
+            else:
+                stack.append(char)
+        
+        temp = []
+        for char in stack:
+            if temp and (temp[-1] + char) == lesser:
+                temp.pop()
+                score += lesserPoint
+            else:
+                temp.append(char)
+
+        return score  
+
 '''
 TLDR: Use high pass and low pass on string, based on point values
 '''
