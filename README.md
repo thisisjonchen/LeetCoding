@@ -27,7 +27,6 @@ Retry 🔁
 **6/16/24** Binary Search: 704🟡\
 **6/24/24** Arrays & Hashing: 36✅\
 **6/25/24** Two Pointers: 15🟡\
-__ABOVE (🟡💀) "RETRIED" AT LEAST ONCE\
 **6/26/24** Graphs: 1791✅\
 **6/30/24** Sliding Window: 3✅🔁, 424✅🔁 | Arrays: 1550✅\
 **7/1/24** Stack: 20✅ | Linked List: 21✅\
@@ -42,6 +41,7 @@ __ABOVE (🟡💀) "RETRIED" AT LEAST ONCE\
 **7/10/24** Arrays: 1598✅\
 **7/11/24** String: 1190✅ | Sliding Window: 2379✅\
 **7/12/24** Arrays & Hashing: 3162✅ | String: 3163✅ | Stack (Greedy): 1717💀\
+`^ ABOVE (🟡💀) "RETRIED" AT LEAST ONCE ^`\
 **7/13/24** Stack: 2751🟡\
 **7/14/24** Stack: 726💀\
 **7/15/24** Trees: 2196🟡\
@@ -59,4 +59,5 @@ __ABOVE (🟡💀) "RETRIED" AT LEAST ONCE\
 **7/27/24** Graphs: 2976💀\
 **7/28/24** Graphs: 2045💀\
 **7/29/24** Arrays: 1395🟡\
-**7/30/24** String: 1653🟡
+**7/30/24** String: 1653🟡 | Math/Simulation: 1823✅🔁\
+
