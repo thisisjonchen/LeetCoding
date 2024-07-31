@@ -59,5 +59,5 @@ Retry 🔁
 **7/27/24** Graphs: 2976💀\
 **7/28/24** Graphs: 2045💀\
 **7/29/24** Arrays: 1395🟡\
-**7/30/24** String: 1653🟡 | Math/Simulation: 1823✅🔁\
+**7/30/24** String: 1653🟡 | Math/Simulation: 1823✅🔁 | Stack (Greedy): 1717🟡🔁\
 
