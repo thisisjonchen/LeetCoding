@@ -95,5 +95,5 @@ class Solution:
         return score  
 
 '''
-TLDR: Use high pass and low pass on string, based on point values
+TLDR: Use high pass and low pass on string, based on point values (GREEDY).
 '''
