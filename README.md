@@ -27,6 +27,7 @@ Retry 🔁
 **6/16/24** Binary Search: 704🟡\
 **6/24/24** Arrays & Hashing: 36✅\
 **6/25/24** Two Pointers: 15🟡\
+__ABOVE (🟡💀) "RETRIED" AT LEAST ONCE\
 **6/26/24** Graphs: 1791✅\
 **6/30/24** Sliding Window: 3✅🔁, 424✅🔁 | Arrays: 1550✅\
 **7/1/24** Stack: 20✅ | Linked List: 21✅\
