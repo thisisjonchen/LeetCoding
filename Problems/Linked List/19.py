@@ -1,10 +1,10 @@
 # LC 19. Remove Nth Node From End of List
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        slow, fast = head, head
+        slow, fast = head, head.next
         count = 0
 
-        while fast.next is not None:
+        while fast is not None:
             fast = fast.next
             count += 1
         
@@ -17,7 +17,7 @@ class Solution:
         if slow.next and fromEnd == 0:
             slow.next = slow.next.next
         else:
-            head = slow.next
+            head = head.next
 
         return head
         
