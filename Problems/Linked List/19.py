@@ -1,4 +1,4 @@
-# LC 19. Remove Nth Node From End of List
+# LC 19. Remove Nth Node From End of List 
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         slow, fast = head, head.next
@@ -23,5 +23,7 @@ class Solution:
         
 '''
 TLDR: Use slow + fast pointers to get count and the number from the end. If fromEnd < 0, the node that is being removed is the head.
+TC O(2n-k) => O(n)
+SC O(1)
 '''
         
