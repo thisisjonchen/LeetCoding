@@ -28,7 +28,7 @@ class Solution:
 '''
 TLDR:
 
-TC O(nk) <- Could be better at O(nlogk) using merge sort
+TC O(nk) <- Could be better at O(nlogk) using merge sort. Will increase SC to O(n) though.
 SC (1)
 '''
             
