@@ -33,7 +33,7 @@ Retry 🔁
 **6/30/24** Sliding Window: 3✅🔁, 424✅🔁 | Arrays: 1550✅\
 **7/1/24** Stack: 20✅ | Linked List: 21✅\
 **7/2/24** Arrays: 350✅\
-**7/3/24** Arrays (Greedy): 1509💀\
+**7/3/24** Greedy: 1509💀\
 **7/4/24** Linked List: 2181✅\
 **7/5/24** Linked List: 2058✅\
 **7/6/24** Math: 2582✅\
@@ -42,7 +42,7 @@ Retry 🔁
 **7/9/24** Arrays/Simulation: 1701✅\
 **7/10/24** Arrays: 1598✅\
 **7/11/24** String: 1190✅ | Sliding Window: 2379✅\
-**7/12/24** Arrays & Hashing: 3162✅ | String: 3163✅ | Stack (Greedy): 1717💀\
+**7/12/24** Arrays & Hashing: 3162✅ | String: 3163✅ | Greedy: 1717💀\
 `^ ABOVE (🟡💀) "RETRIED" AT LEAST ONCE ^`\
 **7/13/24** Stack: 2751🟡\
 **7/14/24** Stack: 726💀\
@@ -61,7 +61,7 @@ Retry 🔁
 **7/27/24** Graphs: 2976💀\
 **7/28/24** Graphs: 2045💀\
 **7/29/24** Arrays: 1395🟡\
-**7/30/24** String: 1653🟡 | Math/Simulation: 1823✅🔁 | Stack (Greedy): 1717🟡🔁\
+**7/30/24** String: 1653🟡 | Math/Simulation: 1823✅🔁 | Greedy: 1717🟡🔁\
 **7/31/24** (🥳 Jul24 Badge) 1-D DP: 1105💀\
 **8/1/24** Arrays: 2678✅ | Linked List: 19✅, 143✅, 141✅, 23✅*
 
