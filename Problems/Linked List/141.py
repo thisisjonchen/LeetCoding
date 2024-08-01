@@ -17,6 +17,7 @@ class Solution:
   '''
   TLDR: Use slow and fast pointers (turtle + hare) here to detect cycles. Used count at 10^4 (len of max constraint). Verify that the nodes are
   in a cycle by using next as there are duplicate values.
-  TC O(n)
+
+  TC O(N)
   SC O(1)
   ''''
