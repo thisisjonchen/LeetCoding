@@ -26,7 +26,8 @@ class Solution:
         return dummy.next
 
 '''
-TLDR:
+TLDR: First, purge empty LL. Then iterate through each of the currNode of LL, comparing to see which is the min (to be added to the cul LL).
+If the list.next is None (meaning it is on its final node), delete it.
 
 TC O(nk) <- Could be better at O(nlogk) using merge sort. Will increase SC to O(n) though.
 SC (1)
