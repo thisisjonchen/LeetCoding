@@ -63,5 +63,5 @@ Retry 🔁
 **7/29/24** Arrays: 1395🟡\
 **7/30/24** String: 1653🟡 | Math/Simulation: 1823✅🔁 | Stack (Greedy): 1717🟡🔁\
 **7/31/24** (🥳 Jul24 Badge) 1-D DP: 1105💀\
-**8/1/24** Arrays: 2678✅ | Linked List: 19✅, 143✅
+**8/1/24** Arrays: 2678✅ | Linked List: 19✅, 143✅, 141
 
