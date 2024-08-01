@@ -2,6 +2,8 @@
 Join me on my journey through the barren wastelands of LeetCode :>\
 https://leetcode.com/u/ZeBosse/
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=ZeBosse&theme=dark&animated=true" alt="LeetCode Badges"/>
+
 # Legend
 Good! ✅ (Solved!)\
 Ehh 🟡 (Needed a Hint)\
