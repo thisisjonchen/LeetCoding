@@ -64,5 +64,5 @@ Retry 🔁
 **7/30/24** String: 1653🟡 | Math/Simulation: 1823✅🔁 | Greedy: 1717🟡🔁\
 **7/31/24** (🥳 Jul24 Badge) 1-D DP: 1105💀\
 **8/1/24** Arrays: 2678✅ | Linked List: 19✅, 143✅, 141✅, 23✅*\
-**8/2/24** Sliding Window: 2134💀
+**8/2/24** Sliding Window: 2134💀 | Arrays & Hashing: 1460✅
 
