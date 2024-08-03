@@ -65,5 +65,5 @@ Retry 🔁
 **7/31/24** (🥳 Jul24 Badge) 1-D DP: 1105💀\
 **8/1/24** Arrays: 2678✅ | Linked List: 19✅, 143✅, 141✅, 23✅*\
 **8/2/24** Sliding Window: 2134💀 | Arrays & Hashing: 1460✅\
-**8/3/24** Linked List: 2✅
+**8/3/24** Linked List: 2✅ | Trees: 226✅
 
