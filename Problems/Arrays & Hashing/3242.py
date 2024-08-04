@@ -1,4 +1,4 @@
-# LC 3242. Design Neighbor Sum Service
+# LC 3242. Design Neighbor Sum Service | Aug 3 Weekly Contest P1
 class neighborSum:
 
     def __init__(self, grid: List[List[int]]):
