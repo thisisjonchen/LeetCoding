@@ -20,5 +20,5 @@ class Solution:
   like in a phone keypad. This will increase the cost (ex: 1 tap -> 2 taps).
 
   TC O(n)
-  SC O(26) -> O(1)
+  SC O(26) -> O(1) due to max in alphabet (for lowercase) being 26.
   '''
