@@ -68,5 +68,6 @@ Retry 🔁
 **8/3/24** Linked List: 2✅ | Trees: 226✅, 104🟡 | Arrays (Matrix): 3238✅, 3239✅\
 **8/4/24** Arrays (Matrix): 3242✅, Arrays: 1508✅\
 **8/5/24** Arrays: 2053✅ | Binary Search: 35✅ | Greedy: 3016✅\
-**8/6/24** Math: 273💀
+**8/6/24** Math: 273💀\
+**8/7/24&& Arrays (Matrix): 885💀
 
