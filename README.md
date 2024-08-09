@@ -70,5 +70,5 @@ Retry 🔁
 **8/5/24** Arrays: 2053✅ | Binary Search: 35✅ | Greedy: 3016✅\
 **8/6/24** Math: 273💀\
 **8/7/24** Arrays (Matrix): 885💀\
-**8/8/24** Arrays (Matrix): 840💀
+**8/8/24** Arrays (Matrix): 840🟡
 
