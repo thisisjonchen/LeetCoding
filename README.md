@@ -71,5 +71,6 @@ Retry 🔁
 **8/6/24** Math: 273💀\
 **8/7/24** Arrays (Matrix): 885💀\
 **8/8/24** Arrays (Matrix): 840🟡\
-**8/9/24** Arrays (Matrix): 959💀
+**8/9/24** Arrays (Matrix): 959💀\
+**8/10/24** Arrays (Matrix): 1568💀
 
