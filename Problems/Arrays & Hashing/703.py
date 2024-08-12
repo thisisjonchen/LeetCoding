@@ -10,7 +10,7 @@ class KthLargest:
         self.heap.sort()
         return self.heap[-self.kth]
 '''
-TLDR: Use heap
+TLDR: Use heap.
 
 TC O(nlogn)
 SC O(n)
