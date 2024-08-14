@@ -1,4 +1,4 @@
-# LC 719. Find K-th Smallest Pair Distance
+# LC 719. Find K-th Smallest Pair Distance | LC Daily - 8/13/24
 
 # Solution from Solutions | Cred: Sachinonly_
 class Solution(object):
