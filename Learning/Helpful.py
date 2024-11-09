@@ -33,3 +33,11 @@ s.upper() # BOOGIE WOOGIE
 import re
 s = "bruh ___EEEE**"
 s = re.sub('[^0-9a-zA-Z]+', "", s)
+
+# Heaps (Useful for creating Min-Heaps + Priority Queues)
+import heapq
+customers = []
+heapq.heappush(customers, (2, "Bob")) # Notice how it is in (array, (priority, value))
+# Can also use .heapify to create a priotity queue of a whole array of TUPLES
+heapq.heapify(customers)
+                           
