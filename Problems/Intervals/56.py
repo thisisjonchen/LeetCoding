@@ -21,7 +21,7 @@ There are two cases here:
 2. Use prev end
 To check which to use, simply compare end times and use that. We always use prev's start time since the intervals are sorted, and it is assumed that prev's is earlier or equal to the curr.
 
-If not overlapping, just append it to res.
+If not overlapping, just append it to res
 
 TC O(nlogn)
 SC O(n) (possible no intervals can be merged)
