@@ -27,7 +27,7 @@ class Solution:
         return True
 
 '''
-TLDR: Simply check end time of prev and start time of curr. If prev end is > curr start, then overlap == False. Else, if nothing, return True
+TLDR: Simply check the end time of the and the start time of the current time. If prev end is > curr start, then overlap == False. Else, if nothing, return True
 
 TC O(nlogn)
 SC O(1)
