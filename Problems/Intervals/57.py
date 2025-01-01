@@ -33,7 +33,7 @@ class Solution:
         return res
 
 '''
-TLDR: A continuation of merge intervals (56) so do that one first. In terms of algo, just find position to insert relative to start (intervals[i][0]) and then merge all intervals respectively.
+TLDR: A continuation of merge intervals (56) so do that one first. In terms of algo, just find a position to insert relative to the start (intervals[i][0]) and then merge all intervals respectively.
 If you don't know how to merge, please see LC 56.
 
 TC O(n)
