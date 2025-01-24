@@ -8,12 +8,9 @@ class Solution:
         freq = sorted(freq.items(), key=lambda x: (-x[1], x[0])) # sort freq in descending order (with negative, largest freq is first) and THEN by alphabetical
 
         res = []
-        for wp in freq:
-            w, f = wp
+        for wp in range(k):
+            w, f = freq[wp]
             res.append(w)
-            k -= 1
-            if k == 0:
-                break 
         return res
 
 '''
