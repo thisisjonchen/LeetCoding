@@ -34,10 +34,14 @@ import re
 s = "bruh ___EEEE**"
 s = re.sub('[^0-9a-zA-Z]+', "", s)
 
-# Heaps (Useful for creating Min-Heaps + Priority Queues)
+# Heaps (Useful for creating Min-Heaps/Priority Queues)
+# NOTE: Time complexity of popping/pushing is O(logn). Finding the minimum is O(1). Heapify is O(n). Space complexity is O(n).
 import heapq
 customers = []
 heapq.heappush(customers, (2, "Bob")) # Notice how it is in (array, (priority, value))
-# Can also use .heapify to create a priotity queue of a whole array of TUPLES
+# Can also use .heapify to create a priority queue of a whole array of TUPLES
 heapq.heapify(customers)
+heapq.heappop(customers) # just the heap array
+heapq.nlargest(k, customers, reverse=False) # returns k largest in an array, O(k * logn)
+heapq.nsmallest(k, customers, reverse=False) # returns k smallest in an array, O(k * logn)
                            
