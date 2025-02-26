@@ -35,7 +35,7 @@ s = "bruh ___EEEE**"
 s = re.sub('[^0-9a-zA-Z]+', "", s)
 
 # Heaps (Useful for creating Min-Heaps/Priority Queues)
-# NOTE: Time complexity of popping/pushing is O(logn). Finding the minimum is O(1). Heapify is O(n). Space complexity is O(n).
+# NOTE: Time complexity of popping/pushing is O(logn). Finding the minimum is O(1). Heapify is O(n). Space complexity is O(1)/O(n) (depends on if the array already exists).
 import heapq
 customers = []
 heapq.heappush(customers, (2, "Bob")) # Notice how it is in (array, (priority, value))
