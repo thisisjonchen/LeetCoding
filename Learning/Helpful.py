@@ -44,4 +44,13 @@ heapq.heapify(customers)
 heapq.heappop(customers) # just the heap array
 heapq.nlargest(k, customers, reverse=False) # returns k largest in an array, O(k * logn)
 heapq.nsmallest(k, customers, reverse=False) # returns k smallest in an array, O(k * logn)
+
+
+# Graphs
+# For BFS (Queue approach), For DFS (Stack approach)
+# Time Complexity and Space Complexity for Both: O(V+E) where V=Verticies/Nodes, E=Edges
+# Potentially helpful here
+seen = set()
+queue = deque() # can use .append, .pop, .popleft, etc.
+
                            
